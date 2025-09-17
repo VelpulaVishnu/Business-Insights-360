@@ -181,7 +181,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif[](](https://github.com/VelpulaVishnu/Business-Insights-360/blob/main/Resources/overall%20report.mp4)
+![Overall Report.gif](https://github.com/VelpulaVishnu/Business-Insights-360/blob/main/Resources/overall%20report.gif)
 ## Info Page
 
 ![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
