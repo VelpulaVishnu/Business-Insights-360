@@ -210,8 +210,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
+you can find the full report file here : [Report](https://github.com/VelpulaVishnu/Business-Insights-360/blob/main/Project%20file/Business%20insights%20360.pbix)
 
 ## Project Outcome
 
